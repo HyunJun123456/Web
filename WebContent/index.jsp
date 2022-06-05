@@ -10,3 +10,4 @@
 	<jsp:forward page="./mylist.jsp"></jsp:forward>
 </body>
 </html>
+
