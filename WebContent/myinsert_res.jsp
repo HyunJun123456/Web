@@ -26,6 +26,8 @@
 	MyBoardDao dao = new MyBoardDao();
 	int res = dao.insert(dto);
 	
+	
+	
 	if(res>0){
 %>
 	<h1>글 등록 성공</h1>

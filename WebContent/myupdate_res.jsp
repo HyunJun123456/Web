@@ -37,6 +37,8 @@
 	<button onclick="lacation.href='myupdate.jsp?myno=<%=dto.getMyno()%>'">되돌아가기</button>
 <%		
 		
+
+
 	}
 %>
 </body>
