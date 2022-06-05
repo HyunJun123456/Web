@@ -34,7 +34,6 @@ public class JDBCTemplate {
 			e.printStackTrace();
 		}
 	
-
 		
 		return con;
 	}
