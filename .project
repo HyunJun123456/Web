@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>test</name>
+=======
+<<<<<<< HEAD
+	<name>Jsp03_MVC</name>
+=======
+<<<<<<< HEAD
+	<name>Jsp02_MultiDelete</name>
+=======
+	<name>Jsp01_Myboard</name>
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
+>>>>>>> branch 'master' of https://github.com/HyunJun123456/Web.git
 	<comment></comment>
 	<projects>
 	</projects>
