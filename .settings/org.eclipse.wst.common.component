@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="Jsp03_MVC">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="Jsp03_MVC"/>
         <property name="java-output-path" value="/Jsp03_MVC/build/classes"/>
+=======
+    <wb-module deploy-name="Jsp02_MultiDelete">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <property name="context-root" value="Jsp02_MultiDelete"/>
+        <property name="java-output-path" value="/Jsp02_MultiDelete/build/classes"/>
+>>>>>>> refs/remotes/origin/master
     </wb-module>
 </project-modules>
